@@ -1,0 +1,26 @@
+comados importantes no cmd (terminal do Windows):
+
+>> cls + enter: limpa o histórico dos comandos da página cmd.
+
+>> dir: lista todas as pastas e arquivos existentes na pasta em que o comando foi dado.
+
+>> cd para navegar entre as pastas e cd .. para retornar.
+
+>> git clone: com a o comando git clone + url do repositório no github, o projeto é copiado para ambiente de máquina local.
+
+>> git status: mostra em quais estágios os arquivos estão, se foram recém adicionados ou deletados, se podem ser comitados e/ou enviados para o repositório remoto.
+
+>> git add . : adiciona todos os arquivos ou mudança nos arquivos que foram adicionadas localmente e que precisam ser adicionadas no repositório remoto.
+obs: ao usar o add . (ou add *), todos os arquivos que precisam e podem ser inseridos serão adicionados, mas caso queira adicionar apenas um arquivo, use o comando git add <nome do arquivo>
+
+>> git commit -m"": ao realizar o git commit as alteções feitas serão gravadas no repositório local, como uma forma de registro de progesso do projeto.
+dentro das aspas é necessário colocar um comentário informativo sobre as mudanças que foram feitas, ou seja, o porquê desse commit estar sendo realizado, para que fique registrado o que e quando foi alterado.
+
+>> git push <remote> <branch>: é usado para enviar o projeto da máquina local para o repositório remoto. o que será enviado para o repositório remoto são os commits que foram feitos anteriormente.
+
+>> git pull: em um projeto em que tenha mais de uma pessoa trabalhando, ou seja, mais de uma máquina local ligada ao repositório do github, é necessário ficar atento às mudanças realizadas por diferentes pessoas para que não haja conflito. com o git pull é baixado para o ambiente local a versão mais recente do que está no ambiente remoto.
+
+>> git rm <nome do arquivo>: deleta um arquivo ou pasta localmente.
+
+
+o github é um modo seguro de versionamento de código, pois utiliza o SHA (secure hash algorithm), pode ser utilizado também a chave SSH e um Token para que seja ainda mais seguro a administração dos códigos e do ambiente de projetos. 
