@@ -1,0 +1,23 @@
+javascript
+
+console.log(); > funciona como a função print
+
+>> declarar variáveis
+duas formas: 
+- let varialvel: pode ser alterado o valor
+- const: é uma constante, uma vez declada o valor não pode ser alterado.
+
+usar o toFixed para arredondamento e definir a quantidade de casas decimais que serão imprimidas 
+
+boolean > variavel verdadeiro ou falso
+
+uma condição sempre retorna um resultado booleano
+
+=, == e === são diferentes. 
+= é de atribuição;
+== é usado para comparação entre duas variáveis;
+=== também é usado para comparação entre duas variáveis, mas verifica o tipo estrito.
+
+>> if é o operador se, uma condição, que leva a um resultado booleano.
+
+operadores condicionais: if, else if e else.
