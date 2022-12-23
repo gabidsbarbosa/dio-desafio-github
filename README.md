@@ -1,8 +1,8 @@
 # aulas de estudo github e javascript
 
-Repositório criado para anotações sobre as aulas do das aulas na plataforma DIO.
+Repositório criado para anotações sobre as aulas na plataforma DIO.
 
-### Tecnologias do bootcamp
+### Tecnologias estudadas
 
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
