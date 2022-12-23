@@ -1,6 +1,6 @@
-# Desafio de Projetos DIO OrangeTech+
+# aulas de estudo github e javascript
 
-Repositório criado para Desafio de Projetos e anotações sobre as aulas do Bootcamp.
+Repositório criado para anotações sobre as aulas do das aulas na plataforma DIO.
 
 ### Tecnologias do bootcamp
 
@@ -11,7 +11,4 @@ Repositório criado para Desafio de Projetos e anotações sobre as aulas do Boo
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
-### Desafio de projetos
 
-- [x] Desafio de Projeto Git e GitHub
-- [ ] Próximos desafios...
